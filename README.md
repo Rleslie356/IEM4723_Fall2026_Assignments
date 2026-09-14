@@ -12,5 +12,5 @@ Image Tag: 'latest'
 
 
 
-!\[Branching History](branch\_history.png)
+![Branching History](branch_history.png)
 
