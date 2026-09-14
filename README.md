@@ -4,7 +4,7 @@ IEM 4723 Information Systems Design (Fall 2026) - assignment starter repositorie
 
 
 
-https://github.com/Rleslie356/IEM4723\_Fall2026\_Assignments/tree/assignment1\_Leslie
+https://github.com/Rleslie356/IEM4723_Fall2026_Assignments/tree/assignment1_Leslie
 
 
 
