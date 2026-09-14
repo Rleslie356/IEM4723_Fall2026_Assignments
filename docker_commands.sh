@@ -8,3 +8,7 @@ docker push rleslie356/linear-regression-app:latest
 # Question 2 
 docker build -t volume-regressor . 
 docker run --rm -v "$(pwd)/data:/home/iem4723/data" volume-regressor
+
+# Question 3
+docker build -t logistic_regression_layered:latest .
+docker run --rm -v "$(pwd)/data:/home/iem4723/data" logistic_regression_layered:latest
