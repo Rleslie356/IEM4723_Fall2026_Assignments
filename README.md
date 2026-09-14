@@ -11,6 +11,5 @@ https://github.com/Rleslie356/IEM4723\_Fall2026\_Assignments/tree/assignment1\_L
 Image Tag: 'latest'
 
 
-
-![Branching History](branch_history.png)
+Branching History Screenshot : 'branch_history.png'
 
