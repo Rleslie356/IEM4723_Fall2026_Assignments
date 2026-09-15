@@ -4,12 +4,13 @@ IEM 4723 Information Systems Design (Fall 2026) - assignment starter repositorie
 
 
 
-https://github.com/Rleslie356/IEM4723_Fall2026_Assignments/tree/assignment1_Leslie
+https://hub.docker.com/repository/docker/rleslie356/linear-regression-app/general
 
 
 
 Image Tag: 'latest'
 
 
-Branching History Screenshot : 'branch_history.png'
+
+Branching History Screenshot file name: 'branch\_history.png'
 
